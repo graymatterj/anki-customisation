@@ -1,0 +1,62 @@
+.back-section {
+    background-color: #fff;
+    border-radius: 0px 0px 10px 10px;
+    color: #4079a7;
+    font-size: 28px;
+    opacity: 0.8;
+    padding: 15px 30px 15px 30px;
+    position: relative;
+    text-align: left;
+}
+
+.card {
+    font-family: Noto Sans CJK JP Regular;
+    font-size: 50px;
+    text-align: center;
+}
+
+.description {
+    font-size: 80%;
+}
+
+.front-section {
+    background-color: #957DAD;
+    border-radius: 10px 10px 0px 0px;
+    color: #fff;
+    left: 0;
+    padding: 20px;
+    position: relative;
+}
+
+h1 {
+    font-size: 120%;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 70%;
+    line-height: normal;
+    margin: 0px;
+}
+
+.info-box {
+    border: 1px dashed #c994ff;
+    color: #c994ff;
+    font-size: 60%;
+    margin-bottom: 35px;
+    padding: 15px 20px 15px 20px;
+    position: relative;
+    top: 15px;
+    width: auto;
+}
+
+.section {
+    padding-top: 15px;
+}
+
+.tag {
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    font-size: 50%;
+}
